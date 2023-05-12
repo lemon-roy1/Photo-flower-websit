@@ -1,0 +1,39 @@
+[
+    {"name" :" lemon roy",
+    "img" :"./images/pic-1.jpg",
+    "age":"20-25",
+    "tital":"Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document",
+    "time" :"20s"
+   }
+,
+{"name" :"shuvo ronny",
+"img" :"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+"age":"20-25",
+"tital" : "./images/pic-2.jpg",
+"time" :"20s"
+},
+{"name" : "Ovi roy",
+"img" :"./images/pic-3.jpg",
+"age":"20-25",
+"tital" : "Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document",
+"time ":"20s"
+}, 
+{"name ": "roton roy",
+"img ":"./images/pic-4.jpg",
+"age":"20-25",
+"tital" : "Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document",
+"time" :"20s"
+},
+ {"name" : "dab roy",
+"img" :"./images/pic-5.jpg",
+"age":"20-25",
+"tital" : "Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document",
+"time" :"20s"
+},
+{"name" : "adito roy",
+"img" :"./images/pic-7.jpg",
+"age":"20-25",
+"tital" : "Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document",
+"time" :"20s"
+}
+]

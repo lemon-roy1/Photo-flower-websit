@@ -1,0 +1,70 @@
+.site-cart{
+    background-color: #fff;
+    padding: 15px;
+}
+.myself{
+    display: flex;
+    margin: 10px;
+    border-radius: 10px;
+    
+}
+.myself img{
+    width: 100px;
+    height: 100px;
+    border-radius:25%;
+}
+.weight{
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    
+}
+.details{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 10px 0px 10px;
+    padding: 15px;
+    background-color: #F2F4FA;
+    border-radius: 10px;
+    color: #838383;
+}
+
+
+.time button{
+    text-align: center;
+    margin: 5px;
+    color: #fff;
+    font-size: 18px;
+    border: none;
+    border-radius: 50%;
+    background-color: #5defbc;
+    width: 40px;
+    height: 40px;
+}
+.time button:hover{
+    background-color: #5D5FEF;
+}
+.time-added{
+    display: flex;
+    justify-content: space-around;
+    background-color: #F2F4FA;
+    padding: 5px;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
+.text-color{
+    color: #9DACC1;
+}
+
+.activity-button{
+    margin-top: 80px;
+    width: 100%;
+    padding: 20px;
+    color: #fff;
+    font-size: 20px;
+    border: none;
+    border-radius: 10px;
+    background-color: #5D5FEF;
+}
+
